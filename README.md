@@ -95,4 +95,10 @@ To answer key **business questions** such as:
 
 ---
 
+## 📍 Conclusion
+This project demonstrates how Python + MySQL + Visualization can:
+✔ Automate querying of structured ecommerce datasets.
+✔ Provide business-ready insights into customers, sellers, and sales trends.
+✔ Identify opportunities for customer retention and revenue growth.
+✔ Support data-driven decision-making with clear KPIs and visuals.
 
