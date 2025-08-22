@@ -97,8 +97,8 @@ To answer key **business questions** such as:
 
 ## 📍 Conclusion
 This project demonstrates how Python + MySQL + Visualization can:
-- Certain item types and fat content categories consistently outperform others in sales.
-- Larger and older outlets generally generate higher revenue.
-- Sales distribution varies significantly across different outlet locations and sizes.
-- Clear regional patterns and item-type preferences suggest potential for inventory and marketing optimization.
+- Automate querying of structured ecommerce datasets.
+- Provide business-ready insights into customers, sellers, and sales trends.
+- Identify opportunities for customer retention and revenue growth.
+- Support data-driven decision-making with clear KPIs and visuals.
 
